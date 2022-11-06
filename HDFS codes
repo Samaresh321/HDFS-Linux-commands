@@ -1,0 +1,3 @@
+// to create a file inside tmp //
+Hadoop fs -ls /tmp
+Hadoop fs -mkdir /tmp/hive_data_class
